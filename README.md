@@ -34,3 +34,9 @@ Below table shows the food items and their locations and price of them.
 |Kaju Barfi       |   Bengalore      |    550      |
 
 ---
+
+### quotes
+
+Live as if you were to die tomorrow,Learn as if you were to live forever.-
+*Gandhi*
+All our dreams can come true, if we have the courage to pursue them-*swamy vivekananda*
