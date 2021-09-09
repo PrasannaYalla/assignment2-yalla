@@ -40,3 +40,31 @@ Below table shows the food items and their locations and price of them.
 Live as if you were to die tomorrow,Learn as if you were to live forever.-
 *Gandhi*   
 All our dreams can come true, if we have the courage to pursue them-*swamy vivekananda*   
+
+---
+
+## code fencing
+
+### Algebra
+
+> Algebra is a branch of mathematics dealing with symbols and the rules for manipulating those symbols. In elementary algebra, those symbols (today written as Latin and Greek letters) represent quantities without fixed values, known as variables. Just as sentences describe relationships between specific words, in algebra, equations describe relationships between variables
+
+> (https://www.livescience.com/50258-algebra.html)
+
+---
+
+pair<int, int> fib (int n) {
+    if (n == 0)
+        return {0, 1};
+
+    auto p = fib(n >> 1);
+    int c = p.first * (2 * p.second - p.first);
+    int d = p.first * p.first + p.second * p.second;
+    if (n & 1)
+        return {d, c + d};
+    else
+        return {c, d};
+}
+
+---
+Link : (<https://cp-algorithms.com/algebra/fibonacci-numbers.html>)
