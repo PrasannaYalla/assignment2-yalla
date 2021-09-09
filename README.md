@@ -16,3 +16,21 @@ Visakhapatnam is considered the 3rd biggest city situated on the east coast of I
 * Sunscreen
 * Camera 
 * Clothes 
+
+
+[AboutMeLink](AbouMe.md)
+
+---
+
+### Recommended food
+
+Below table shows the food items and their locations and price of them.
+
+|    Food Items   |     Location     |   Amount    |
+|   -----------   |    ----------    |  --------   |
+|Chicken Biryani  |   Hyderabad      |    250      |
+|Keema Pulav      |   vizag          |    200      |
+|Mutton Biryani   |   New Delhi      |    600      |
+|Kaju Barfi       |   Bengalore      |    550      |
+
+---
